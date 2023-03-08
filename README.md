@@ -1,5 +1,5 @@
 # BMI-Calculator
-This BMI Calculator for adult and it is created using R/Shiny
+This is a  BMI Calculator and made for adult R/Shiny Web App
 
 This is a BMI calculator Shiny app created using R programming language. The app allows the user to input their height and weight, and calculates their Body Mass Index (BMI) using the formula: BMI = weight / (height / 100)^2. The output is displayed in a table, along with a status/output text box that displays messages to the user.
 
